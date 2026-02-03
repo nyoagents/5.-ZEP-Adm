@@ -91,8 +91,8 @@
 
 | Chave | Valor |
 |-------|-------|
-| E-mail | xxx@gmail.com |
-| Senha | (preencher) |
+| E-mail | zeph.nyo@gmail.com |
+| Senha | (Zeph@12345) |
 | Client ID Drive | (preencher).apps.googleusercontent.com |
 | Chave Secreta | (preencher) |
 
