@@ -22,9 +22,9 @@
 
 | Chave | Valor |
 |-------|-------|
-| URL | https://portainer-xxx.dominio.com.br |
+| URL | https://portainer-zep.nyoagents.com.br |
 | Login | admin |
-| Senha | (preencher) |
+| Senha | JZgzr1mS0qK2Th |
 
 ---
 
@@ -32,10 +32,10 @@
 
 | Chave | Valor |
 |-------|-------|
-| URL | https://n8n-xxx.dominio.com.br |
+| URL | https://n8n-zep.nyoagents.com.br |
 | Login | email@dominio.com |
-| Senha | (preencher) |
-| Encryption Key | (preencher) |
+| Senha | FDfN0gQ18vqTiW |
+| Encryption Key | nRakLh0toiwPaK |
 
 ---
 
@@ -52,7 +52,7 @@
 
 | Chave | Valor |
 |-------|-------|
-| Senha | (preencher) |
+| Senha | kT74phT5U00dSx |
 
 ---
 
@@ -60,7 +60,7 @@
 
 | Chave | Valor |
 |-------|-------|
-| Senha | (preencher) |
+| Senha | 3KE1KH0DBfioMj |
 
 ---
 
@@ -71,7 +71,7 @@
 | Host | localhost / IP |
 | Porta | 5432 |
 | User | postgres |
-| Senha | (preencher) |
+| Senha | RENbX4244IvUe7 |
 | Database | (nome do banco) |
 
 ---
@@ -83,7 +83,7 @@
 | URL | https://xxx.supabase.co |
 | Anon Key | (preencher) |
 | Service Key | (preencher) |
-| Senha | (preencher) |
+| Senha | RENbX4244IvUe7@ |
 
 ---
 
