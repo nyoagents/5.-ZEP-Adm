@@ -71,7 +71,7 @@
 | Host | localhost / IP |
 | Porta | 5432 |
 | User | postgres |
-| Senha | RENbX4244IvUe7 |
+| Senha | RVQobxA2fbKMR7 |
 | Database | (nome do banco) |
 
 ---
