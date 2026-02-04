@@ -8,11 +8,11 @@
 
 | Chave | Valor |
 |-------|-------|
-| Provedor | (ex: Hostinger, Contabo, AWS) |
-| IP | xxx.xxx.xxx.xxx |
-| Custo / Plano | R$ XX,00 |
-| Recursos | XVCPU / XGB RAM / XX GB SSD |
-| Senha SSH | (preencher) |
+| Provedor | hetzner |
+| IP | 178.156.220.133 |
+| Custo / Plano | R$ 70 |
+| Recursos | 3VCPU / 4GB RAM / 80 GB SSD |
+| Senha SSH | cat3npN7FXa7 |
 | User | root |
 | Token Swarm | (preencher se aplicável) |
 
