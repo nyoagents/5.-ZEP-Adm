@@ -33,7 +33,7 @@
 | Chave | Valor |
 |-------|-------|
 | URL | https://n8n-zep.nyoagents.com.br |
-| Login | email@dominio.com |
+| Login | zeph.nyo@gmail.com |
 | Senha | FDfN0gQ18vqTiW |
 | Encryption Key | nRakLh0toiwPaK |
 
