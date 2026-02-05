@@ -93,8 +93,8 @@
 |-------|-------|
 | E-mail | zeph.nyo@gmail.com |
 | Senha | (Zeph@12345) |
-| Client ID Drive | (preencher).apps.googleusercontent.com |
-| Chave Secreta | (preencher) |
+| Client ID Drive | 498690637502-5891i9qovuirqgq7hdsknqdjhb5e4gs7.apps.googleusercontent.com|
+| Chave Secreta | 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 |
 
 ---
 
