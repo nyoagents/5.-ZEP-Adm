@@ -12,7 +12,7 @@
 | IP | 178.156.220.133 |
 | Custo / Plano | R$ 70 |
 | Recursos | 3VCPU / 4GB RAM / 80 GB SSD |
-| Senha SSH | rTffPeg7Pgqv |
+| Senha SSH | kiMV3vCdvTic |
 | User | root |
 | Token Swarm | (preencher se aplicável) |
 
