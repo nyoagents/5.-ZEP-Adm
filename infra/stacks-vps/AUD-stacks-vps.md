@@ -22,7 +22,7 @@
 
 | Chave | Valor |
 |-------|-------|
-| URL | https://portainer-zep.nyoagents.com.br |
+| URL | https://portainer-aud.nyoagents.com.br |
 | Login | admin |
 | Senha | JZgzr1mS0qK2Th |
 
@@ -32,8 +32,8 @@
 
 | Chave | Valor |
 |-------|-------|
-| URL | https://n8n-zep.nyoagents.com.br |
-| Login | zeph.nyo@gmail.com |
+| URL | https://n8n-aud.nyoagents.com.br |
+| Login | aud.nyo@gmail.com | 
 | Senha | FDfN0gQ18vqTiW |
 | Encryption Key | nRakLh0toiwPaK |
 
@@ -91,8 +91,8 @@
 
 | Chave | Valor |
 |-------|-------|
-| E-mail | zeph.nyo@gmail.com |
-| Senha | (Zeph@12345) |
+| E-mail | audacia.nyo@gmail.com |
+| Senha | Audacia@12345 |
 | Client ID Drive | 498690637502-5891i9qovuirqgq7hdsknqdjhb5e4gs7.apps.googleusercontent.com|
 | Chave Secreta | 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 |
 
