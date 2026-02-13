@@ -80,9 +80,9 @@
 
 | Chave | Valor |
 |-------|-------|
-| URL | https://xxx.supabase.co |
-| Anon Key | (preencher) |
-| Service Key | (preencher) |
+| URL | https://elalcfmuwnhapmhelvpu.supabase.co |
+| Anon Key | eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVsYWxjZm11d25oYXBtaGVsdnB1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzA5OTc4NzUsImV4cCI6MjA4NjU3Mzg3NX0.wN__AO_S9dmP18814kt4y7TJE24zo62iCEPFDkheOUo |
+| Service Key | eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVsYWxjZm11d25oYXBtaGVsdnB1Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3MDk5Nzg3NSwiZXhwIjoyMDg2NTczODc1fQ.F3PUCXI4jPrifbGHdFpWadVTJv5xu6WSGh81irDcawk |
 | Senha | RENbX4244IvUe7@ |
 
 ---
